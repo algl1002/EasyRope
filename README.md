@@ -1,7 +1,7 @@
 # Easy Rope
 Easy Rope - an addon for Blender that lets you easily create hanging down ropes, wires, etc.
 
-Watch demo-video here: 
+Watch demo-video here: https://youtu.be/dGfDE5mnCYI
 
 ## How to use:
 1) Place the cursor to a point where you need to create the beginning of the rope, press Add point button
