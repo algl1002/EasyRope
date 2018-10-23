@@ -2,7 +2,6 @@
 # Easy Rope (new update soon)
 Easy Rope is an addon for Blender that lets you easily create hanging down ropes, wires, etc.
 
-![](/lib/blender.mp4)
 Watch demo-video here: https://youtu.be/h9N7Sv0k0nE
 
 ## Versions:
