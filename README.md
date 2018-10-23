@@ -1,3 +1,4 @@
+![](https://github.com/algl1002/EasyRope/lib/main.jpg)
 # Easy Rope (new update soon)
 Easy Rope is an addon for Blender that lets you easily create hanging down ropes, wires, etc.
 
