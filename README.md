@@ -18,4 +18,9 @@ Watch demo-video here: https://youtu.be/h9N7Sv0k0nE
 ### v.1.0 (NEW features):
 - Since now ropes are based on curves
 - The way how you create a rope was changed to more convenient
-- 
+- Since now you can create ropes with: no, one or both loose ends
+- Setup thickness
+- Setup mass
+- Create ropes with random mass, stiffness and thickness
+- Create helper empty objects (for moving ropes more convenient)
+- Control size of the helpers
