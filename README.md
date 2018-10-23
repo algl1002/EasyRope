@@ -1,13 +1,21 @@
-# Easy Rope
-Easy Rope - an addon for Blender that lets you easily create hanging down ropes, wires, etc.
+# Easy Rope (new update soon)
+Easy Rope is an addon for Blender that lets you easily create hanging down ropes, wires, etc.
 
-Watch demo-video here: https://youtu.be/dGfDE5mnCYI
+Watch demo-video here: https://youtu.be/h9N7Sv0k0nE
 
-## How to use:
-1) Place the cursor to a point where you need to create the beginning of the rope, press Add point button
-2) Place cursor and press Add point again (to create a rope you need to add at least 2 points), 
-you can do it as many times as you need. In every such point your rope will be fixed
-3) When you finish adding points, setup subdivision level for your rope, stiffness (the more value the less will the rope hang down)
-4) If you will check Apply as shape key, rope will have a shape key and you will be able to control its hanging by that key
-5) Setup whether your rope will be dynamic or static
-6) Press Generate!
+## Versions:
+### v.0.8 (initial):
+- Create hanging down ropes, wires, etc
+- Change stiffness of the rope
+- Apply hanging as shape key
+- Create dynamic or static ropes
+- Set the subdivision level for the rope
+
+### v.0.9 (NEW features):
+- create ropes that have a hanging end
+- control the speed of the simulation
+
+### v.1.0 (NEW features):
+- Since now ropes are based on curves
+- The way how you create a rope was changed to more convenient
+- 
